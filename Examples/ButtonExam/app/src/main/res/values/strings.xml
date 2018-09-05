@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ButtonExam</string>
+    <string name="btn_txt">Hello!</string>
+    <string name="textview_txt">Hello world!</string>
+    <string name="hello_txt">Кнопка сработала</string>
+    <string name="btn_2">Кнопка 2</string>
+
+</resources>
